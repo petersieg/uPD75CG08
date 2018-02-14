@@ -2,6 +2,8 @@
 
 Anfang 2018 konnte ich über ebay günstig solche CPU's bekommen.
 
+![Bild](https://github.com/petersieg/uPD75CG08/blob/master/uPD75CG08.jpg)
+
 Etwas damit zu machen als sie nur als Deko in die Vitrine zu stellen, möchte ich hier inkl. lokalisierten Unterlagen sammeln.
 
 Bei der uPD7500 Serie von NEC handelt es sich um 4-bit CPU's mit vielen I/O Ports und sehr geringer Stromaufnahme. Ich fand Hinweise darauf, das sie z.B. in einer Steuerung im Mazda RX-7 eingesetzt wurden.
