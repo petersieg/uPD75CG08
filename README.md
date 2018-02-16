@@ -17,3 +17,11 @@ http://john.ccac.rwth-aachen.de:8000/as/
 Die Idee ist es zuerst, die CPU mit Strom und R (82k) + C (33pf)  zur Takterzeugung zu beschalten und als ROM Ersatz eine NOP (8x0) Schaltung an D0-D7 zu legen. Wenn sich die CPU dann wie andere 8-bitter verhält, sollten die Adressen am Rom hochgezählt werden, was man z.B. mit einem Oszilloskop darstellen kann.
 
 Sollte das so funktionieren, soll ein kleines Programm im Eprom z.B. an Output Port 3 von 0-F hochzählen (was man wieder mit dem Oszi oder z.B. TIL311 darstellen kann).
+
+---
+
+Eine freundlicherweise mitgelieferte Platine unbekannter Herkunft, zeigte zumindest schon einmal Lebenszeichen am Oszi+LED mit ei
+nem NOP (0x0) an D0-D7 (hier über 10k SIL Widerstände). Die LED hängt an A11 mit der Kathode.
+
+![Oszi](https://github.com/petersieg/uPD75CG08/blob/master/uPD75CG08%2BNOP%2BOszi.JPG)
+
