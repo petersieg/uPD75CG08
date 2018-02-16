@@ -25,3 +25,4 @@ nem NOP (0x0) an D0-D7 (hier über 10k SIL Widerstände). Die LED hängt an A11 
 
 ![Oszi](https://github.com/petersieg/uPD75CG08/blob/master/uPD75CG08%2BNOP%2BOszi.JPG)
 
+![Platine](https://github.com/petersieg/uPD75CG08/blob/master/uPD75CG08-Platine%2BNOP.JPG)
