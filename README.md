@@ -26,3 +26,18 @@ nem NOP (0x0) an D0-D7 (hier über 10k SIL Widerstände). Die LED hängt an A11 
 ![Oszi](https://github.com/petersieg/uPD75CG08/blob/master/uPD75CG08%2BNOP%2BOszi.JPG)
 
 ![Platine](https://github.com/petersieg/uPD75CG08/blob/master/uPD75CG08-Platine%2BNOP.JPG)
+
+Und nun läuft der NOP Generator auch auf Lochraster mit R+C Glied zwischen CL1+CL2. X1 muss auf GND sein. INT1 hatte ich ebenfalls auf GND gelegt.
+
+![LR-Oszi](https://github.com/petersieg/uPD75CG08/blob/master/uPD75CG08-LR-Oszi.JPG)
+
+Lochrasteraufbau von oben:
+
+![LR-TOP](https://github.com/petersieg/uPD75CG08/blob/master/uPD75CG08-LR-TOP.JPG)
+
+Lochrasteraufbau von unten mit R+C Glied, 10k Reset an GND, X1 an GND und INT1 an GND (graues Kabel:
+)
+![LR-BOT](https://github.com/petersieg/uPD75CG08/blob/master/uPD75CG08-LR-BOT.JPG)
+
+
+
