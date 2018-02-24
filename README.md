@@ -49,6 +49,8 @@ Bild der Platine (zw. GND und VCC sollte noch ein 100nF Abblockkondensator). Res
 
 ![PCB](https://github.com/petersieg/uPD75CG08/blob/master/jclpcb.png)
 
+https://youtu.be/noyEymEQFHE
+
 Super simmples Testprogramm ist in test4.asm.
 
 Wie man ein 28C16 anstatt 2732 nimmt steht im gleichnamigen PDF.
