@@ -39,5 +39,11 @@ Lochrasteraufbau von unten mit R+C Glied, 10k Reset an GND, X1 an GND und INT1 a
 )
 ![LR-BOT](https://github.com/petersieg/uPD75CG08/blob/master/uPD75CG08-LR-BOT.JPG)
 
+Lochrasteraufbau mit 4x LED+Vorwiderstand an Port 3:
+
+![LR-LED](https://github.com/petersieg/uPD75CG08/blob/master/LR-Aufbau.JPG)
+
+Die Datei uPD75CG08.zip enthält Eagle Layout und Gerber für Elecrow/JCL.
+
 
 
