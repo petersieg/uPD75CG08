@@ -55,3 +55,9 @@ Super simmples Testprogramm ist in test4.asm.
 
 Wie man ein 28C16 anstatt 2732 nimmt steht im gleichnamigen PDF.
 
+Und hier eine fertig aufgebaute Platine im Betrieb:
+
+![Platine](https://github.com/petersieg/uPD75CG08/blob/master/uPD75CG08%20Platine.jpeg)
+
+
+
