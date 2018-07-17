@@ -43,7 +43,7 @@ Lochrasteraufbau mit 4x LED+Vorwiderstand an Port 3:
 
 ![LR-LED](https://github.com/petersieg/uPD75CG08/blob/master/LR-Aufbau.JPG)
 
-Die Datei uPD75CG08.zip enthält Eagle Layout und Gerber für Elecrow/JCL.
+Die Datei uPD75CG08.zip enthält Eagle Layout und Gerber für Elecrow/JLCPCB.
 
 Bild der Platine (zw. GND und VCC sollte noch ein 100nF Abblockkondensator). Resettaster zw. Pin-18 und VCC/+5V:
 
