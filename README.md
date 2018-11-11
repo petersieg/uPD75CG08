@@ -14,6 +14,14 @@ Als Assembler eignet sich die neueste Beta des Arnold Assemblers:
 
 http://john.ccac.rwth-aachen.de:8000/as/
 
+Batch-Datei zum assemblieren:
+
+..\as\bin\as %1 -L
+
+..\as\bin\p2bin %1 -r $-$
+
+---
+
 Die Idee ist es zuerst, die CPU mit Strom und R (82k) + C (33pf)  zur Takterzeugung zu beschalten und als ROM Ersatz eine NOP (8x0) Schaltung an D0-D7 zu legen. Wenn sich die CPU dann wie andere 8-bitter verhält, sollten die Adressen am Rom hochgezählt werden, was man z.B. mit einem Oszilloskop darstellen kann.
 
 Sollte das so funktionieren, soll ein kleines Programm im Eprom z.B. an Output Port 3 von 0-F hochzählen (was man wieder mit dem Oszi oder z.B. TIL311 darstellen kann).
