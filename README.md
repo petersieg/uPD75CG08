@@ -28,8 +28,7 @@ Sollte das so funktionieren, soll ein kleines Programm im Eprom z.B. an Output P
 
 ---
 
-Eine freundlicherweise mitgelieferte Platine unbekannter Herkunft, zeigte zumindest schon einmal Lebenszeichen am Oszi+LED mit ei
-nem NOP (0x0) an D0-D7 (hier über 10k SIL Widerstände). Die LED hängt an A11 mit der Kathode.
+Eine freundlicherweise mitgelieferte Platine unbekannter Herkunft, zeigte zumindest schon einmal Lebenszeichen am Oszi+LED mit einem NOP (0x0) an D0-D7 (hier über 10k SIL Widerstände). Die LED hängt an A11 mit der Kathode.
 
 ![Oszi](https://github.com/petersieg/uPD75CG08/blob/master/uPD75CG08%2BNOP%2BOszi.JPG)
 
@@ -59,7 +58,7 @@ Bild der Platine (zw. GND und VCC sollte noch ein 100nF Abblockkondensator). Res
 
 https://youtu.be/noyEymEQFHE
 
-Super simmples Testprogramm ist in test4.asm.
+Super simples Testprogramm ist in test4.asm.
 
 Wie man ein 28C16 anstatt 2732 nimmt steht im gleichnamigen PDF.
 
